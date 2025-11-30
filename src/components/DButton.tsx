@@ -10,8 +10,9 @@ export const DButton = ({ onClick }: IDButton) => {
         <Button
           onClick={onClick}
           colorScheme="teal"
-          size="sm"
-          width="100%"
+          size="lg"
+          width="50%"
+          height="60px"
           marginTop="5px"
         >
           Entrar
